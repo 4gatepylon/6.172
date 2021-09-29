@@ -1,0 +1,1 @@
+# this will be a script that batches AWS runs to get information about runtime on the canonical machines
