@@ -1,0 +1,14 @@
+*log.awsrun/
+*.o
+*.d
+snailspeed/rotate
+snailspeed/r64ct
+snailspeed/.buildmode
+cachegrind.out.*
+job*
+*.S
+*.s
+*.ll
+
+.DS_Store
+.vscode/

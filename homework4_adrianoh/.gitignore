@@ -1,0 +1,12 @@
+fib/fib
+transpose/transpose
+qsort-race/qsort-race
+qsort/qsort
+queens/queens
+
+*.o
+*.ll
+*.s
+.cflags
+
+job*

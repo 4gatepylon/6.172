@@ -1,0 +1,38 @@
+info setting use_ob to 0
+info setting reset_rng to 1
+info string reset the rng
+Resetting RNG due to setoption command.
+info depth 1 move_no 1 time (microsec) [0-9]* nodes 45 nps [0-9]*
+info score cp 80 pv e0e1
+info depth 2 move_no 1 time (microsec) [0-9]* nodes 1255 nps [0-9]*
+info score cp 3 pv e0e1 h3g4
+info depth 2 move_no 10 time (microsec) [0-9]* nodes 3347 nps [0-9]*
+info score cp 8 pv a2b3 h7h6
+info depth 3 move_no 1 time (microsec) [0-9]* nodes 23752 nps [0-9]*
+info score cp 20 pv a2b3 f7g6 b3R
+info depth 4 move_no 1 time (microsec) [0-9]* nodes 102299 nps [0-9]*
+info score cp 8 pv a2b3 h7h6 e0d1 h3g4
+info depth 4 move_no 18 time (microsec) [0-9]* nodes 351774 nps [0-9]*
+info score cp 17 pv a2b2 d6R a0L h7g6 b4c5 g6h5 d3d2
+info depth 5 move_no 1 time (microsec) [0-9]* nodes 841210 nps [0-9]*
+info score cp -3 pv a2b2 h3L d3e4 h3g4 e0d1 h7h6
+info depth 5 move_no 2 time (microsec) [0-9]* nodes 1530988 nps [0-9]*
+info score cp 8 pv a2b3 h3L d3e4 h3g4 e0d1 h7h6
+info depth 5 move_no 30 time (microsec) [0-9]* nodes 2025847 nps [0-9]*
+info score cp 31 pv e0d1 h3g4 b4c4 f7e6 a0a1
+bestmove e0d1
+info depth 1 move_no 1 time (microsec) [0-9]* nodes 7 nps [0-9]*
+info score cp -89 pv h0R
+info depth 1 move_no 3 time (microsec) [0-9]* nodes 15 nps [0-9]*
+info score cp 22 pv h0g0
+info depth 1 move_no 6 time (microsec) [0-9]* nodes 24 nps [0-9]*
+info score cp 45 pv h0g1
+info depth 2 move_no 1 time (microsec) [0-9]* nodes 64 nps [0-9]*
+info score cp 3 pv h0g1 a7b6
+info depth 3 move_no 1 time (microsec) [0-9]* nodes 176 nps [0-9]*
+info score cp 34 pv h0g1 a7b6 g1f2
+info depth 4 move_no 1 time (microsec) [0-9]* nodes 490 nps [0-9]*
+info score cp 3 pv h0g1 a7b6 g1f2 b6c5
+info depth 5 move_no 1 time (microsec) [0-9]* nodes 1034 nps [0-9]*
+info score cp 26 pv h0g1 a7b6 g1f2 b6c5 f2e3
+bestmove h0g1

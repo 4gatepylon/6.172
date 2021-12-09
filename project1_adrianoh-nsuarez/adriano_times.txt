@@ -1,0 +1,14 @@
+September 16th, 2021 8:05AM - 9:15AM: Read handout carefully and wrote down some reminders.
+September 16th, 2021 8:00PM - 10:00PM We thought about how to quickly do 64x64 rotations and designed an algorithm.
+September 17th, 2021 8:00AM - 9:00AM Worked on outer rotation I think. Forgot to log on this day.
+September 20th, 2021 8:00AM - 9:00AM I worked on 64x64. I also worked this afternoon, but I forgot to log and don't remember the time.
+September 21st, 2021 8:00AM - 10:00: Worked on the 64x64 rotation; did not fix, but added a ton of asserts. Trying naive.
+September 21st, 2021 6:00PM - 8:00:  At OH getting help with 64x64. Added various tests in my stash branch (adriano/stash).
+September 21st, 2021 11:00PM - 1:00AM: Fixed some bugs and added more tests. The tests are not exercised. Worked on block rotates.
+September 22nd, 2021 5:30 - 8:00 PM: Debugged our implementation at OH. Went from buggy to Tier 39.
+September 26th, 2021 5:30 - 7:00: Broken recursive tiling
+September 28th, 2021 7:30-11:30PM: Recursive tiling works. Windmill 128 pseudocode w/ and/or w/out tiling.
+September 29th, 2021 8:15 - 10:45AM: Working on iterative tiling, vectorization, memcpy, 128, row-copier (not fully tested).
+September 29th, 2021 11:30AM - 12:30PM: Debugged iterative tiling and new indexxing scheme. Each of our three implementations works!
+
+TODO loop tiling, loop unrolling, more vectorization.

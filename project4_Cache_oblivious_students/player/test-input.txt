@@ -1,0 +1,6 @@
+setoption name use_ob value 0
+setoption name reset_rng value 1
+go depth 5
+position endgame
+go depth 5
+quit

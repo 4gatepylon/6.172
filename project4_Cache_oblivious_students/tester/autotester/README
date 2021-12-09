@@ -1,0 +1,5 @@
+Autotester
+
+The autotester runs the leiserchess application.
+
+To make the autoteester, run `make`. Then refer to ../README

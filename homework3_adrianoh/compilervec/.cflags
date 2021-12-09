@@ -1,0 +1,1 @@
+-march=haswell -Wall -std=gnu99 -g -O3 -Rpass=loop-vectorize -Rpass-missed=loop-vectorize -S -emit-llvm -mno-avx 

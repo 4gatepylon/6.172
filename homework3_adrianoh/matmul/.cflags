@@ -1,0 +1,1 @@
+-march=haswell -Wall -std=gnu11 -g -O3 -DNDEBUG -Rpass=loop-vectorize -Rpass-missed=loop-vectorize -mavx2 -mfma 
